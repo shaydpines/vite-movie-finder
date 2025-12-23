@@ -672,6 +672,16 @@ footer {
 
 /*
 
+DISABLED
+
+*/
+
+.disabled {
+    cursor: not-allowed;
+}
+
+/*
+
 Media
 
 */
