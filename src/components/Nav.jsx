@@ -18,7 +18,7 @@ export default function Nav({ toggleModal }) {
     return (
         <nav>
             <div className="nav__row">
-                <h3 className="OMDb">Cinema Search</h3>
+                <h3 className="OMDb">Movie Finder</h3>
                 <h3 className="nav__title">Search Movies By Title</h3>
                 <ul className="nav__links">
                     <li className="nav__link">
