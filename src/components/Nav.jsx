@@ -29,7 +29,7 @@ export default function Nav({ toggleModal }) {
                     <li className="nav__link">
                         <a
                             href="/"
-                            // onClick handleContactClick
+                            onClick handleContactClick
                             className="nav__link--anchor disabled"
                         >
                             Contact
