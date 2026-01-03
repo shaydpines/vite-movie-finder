@@ -17,7 +17,7 @@ export default function Start({ initialSearch, setInitialSearch, isModalOpen, to
             <section id="start" className="off-white">
                 <div className="container">
                     <div className="row start__row">
-                        <h1 className="start__title">Welcome to the OMDb API</h1>
+                        <h1 className="start__title">Welcome to Cinema Search using the OMDb API</h1>
                         <div className="start__search--wrapper">
                             <div className="start__search--features">
                                 <label className="start__search--label"> Search by title </label>
